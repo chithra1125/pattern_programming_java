@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class five_stars_in_a_row {
+public class printing_stars_in_a_row {
 
     public static void main(String[] args)
     {
